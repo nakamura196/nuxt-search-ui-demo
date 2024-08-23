@@ -16,7 +16,7 @@ withDefaults(defineProps<PropType>(), {
       :key="page"
       @click="clickHandler(page)"
       style="
-        margin: 0 5px;
+        margin: 5px;
         padding: 5px 10px;
         border: 1px solid #ccc;
         border-radius: 5px;
