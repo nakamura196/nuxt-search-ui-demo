@@ -4,4 +4,7 @@ export default defineNuxtConfig({
   typescript: {
     strict: true,
   },
+  app: {
+    baseURL: "/nuxt-search-ui-demo",
+  },
 });
